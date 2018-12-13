@@ -11,6 +11,5 @@ gradient b = partial delivative over b = sum (-2/N) * (y - (mx + b)))
 4) update weights (m and b) over iterations with defined learning rate
 5) plot evolution of weights changes and reductionn of error over iterations
 
-![alt text](https://imgur.com/a/5hs3MiG)
-
-![alt text](https://imgur.com/ErPWq8Q)
+￼![Screenshot](weight-and-error-over-iterations.png)
+￼![Screenshot](fitted-model.png)
