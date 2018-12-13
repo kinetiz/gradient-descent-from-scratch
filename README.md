@@ -5,8 +5,8 @@
 Yhat = mx + b
 <br /> Cost function = MSE = 1/N * (Y-Yhat)^2
 3) define gradient equation
-gradient m = partial delivative over m = sum (-2/N) * x *(y - (mx + b)))
-<br /> gradient b = partial delivative over b = sum (-2/N) * (y - (mx + b)))
+<br /> gradient m = partial delivative over m = sum (-2/N) * x *(y - (mx + b))
+<br /> gradient b = partial delivative over b = sum (-2/N) * (y - (mx + b))
 
 4) update weights (m and b) over iterations with defined learning rate
 5) plot evolution of weights changes and reductionn of error over iterations
